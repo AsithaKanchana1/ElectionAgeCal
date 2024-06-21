@@ -1,9 +1,9 @@
 /**
  * @file AgeCalculatorForElwction.c
  * @author Asitha Kanchana (asitha.contact@gmail.com)
- * @brief This Program Checks uresr age is grater than 18 and
- *  then print out is he/she is eligible to vote and other feachers like
- * user input is valide or not   
+ * @brief This Program Checks user age is greater than 18 and
+ *  then print out if he/she is eligible to vote and other features like
+ * user input is valid or not   
  * @version 0.1
  * @date 2024-06-21
  * 
