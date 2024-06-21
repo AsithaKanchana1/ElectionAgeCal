@@ -1,5 +1,5 @@
 /**
- * @file test.c
+ * @file AgeCalculatorForElwction.c
  * @author Asitha Kanchana (asitha.contact@gmail.com)
  * @brief This Program Checks uresr age is grater than 18 and
  *  then print out is he/she is eligible to vote and other feachers like
